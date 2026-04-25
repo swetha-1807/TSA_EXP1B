@@ -107,5 +107,4 @@ plt.show()
 <img width="1384" height="670" alt="image" src="https://github.com/user-attachments/assets/36743558-b38b-4692-852c-946cffd63692" />
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
-data.
+Thus we have created the python code for the conversion of non stationary to stationary data on TSLA dataset.
